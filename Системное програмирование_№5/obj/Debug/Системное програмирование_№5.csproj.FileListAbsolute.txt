@@ -1,0 +1,10 @@
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\bin\Debug\Системное програмирование_№5.exe.config
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\bin\Debug\Системное програмирование_№5.exe
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\bin\Debug\Системное програмирование_№5.pdb
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное програмирование_№5.csproj.AssemblyReference.cache
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное_програмирование__5.Form1.resources
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное_програмирование__5.Properties.Resources.resources
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное програмирование_№5.csproj.GenerateResource.cache
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное програмирование_№5.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное програмирование_№5.exe
+C:\Users\Undertaker\source\repos\Системное програмирование_№5\Системное програмирование_№5\obj\Debug\Системное програмирование_№5.pdb
